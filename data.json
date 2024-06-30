@@ -1,0 +1,46 @@
+[{
+            "Name": "Souvik Bhattacharya",
+            "ContactNo": {
+                "type": "home",
+                "number": "8777561284"
+            },
+            "DOB": "7/7/1997",
+            "gender": "Male",
+            "age": 27,
+            "address": {
+                "streetAddress": "sc Ghosh Street",
+                "city": "Kolkata",
+                "state": "WB",
+                "postalCode": "743144"
+            }
+        }, {
+            "Name": "Sutirtha Banerjee",
+            "ContactNo": {
+                "type": "home",
+                "number": "700336877"
+            },
+            "DOB": "10/01/1998",
+            "gender": "female",
+            "age": 26,
+            "address": {
+                "streetAddress": "sc Ghosh Street",
+                "city": "Kolkata",
+                "state": "WB",
+                "postalCode": "743133"
+            }
+        },{
+            "Name": "John Doe",
+            "ContactNo": {
+                "type": "home",
+                "number": "1234567890"
+            },
+            "DOB": "1990-01-01",
+            "gender": "Male",
+            "age": 30,
+            "address": {
+                "streetAddress": "123 Main St",
+                "city": "Anytown",
+                "state": "CA",
+                "postalCode": "90210"
+            }
+        }]
